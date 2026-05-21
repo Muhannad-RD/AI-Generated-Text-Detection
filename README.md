@@ -36,7 +36,7 @@ The pipeline implements a robust text preprocessing and advanced feature fusion 
 * Evaluating the pipeline's robustness against advanced adversarial paraphrasing techniques and lightly edited AI prompts.
 
 ## Author
-* **Muhannad Al-Raddadi** - Data Science & Analytics Student
+* **Muhannad Al-Raddadi**
 
 ## License
 This project is licensed under the **MIT License**.
